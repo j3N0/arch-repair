@@ -1,0 +1,2 @@
+# arch-repair
+repair archlinux
