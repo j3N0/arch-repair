@@ -100,6 +100,7 @@ $ pacman -Syy
 $ pacstrap -i /mnt base base-devel        
 ```
 7. 配置系统
+
 用以下命令生成 fstab 文件 (用 -U 或 -L 选项设置UUID 或卷标)：
 ```
 $ genfstab -U /mnt >> /mnt/etc/fstab
