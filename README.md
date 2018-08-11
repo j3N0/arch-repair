@@ -81,6 +81,7 @@ $ ip link set your interface down
 $ netcl start your profile  #你的配置文件名
 ```
 5. 配置mirror
+
 打开`/etc/pacman.d/mirrorlist`
 
 把前面几个源都加井号注释掉，让中国的源在第一的位置
