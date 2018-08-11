@@ -62,6 +62,7 @@ $ mount /dev/sda1 /mnt/boot
 $ mount /dev/sda3 /mnt/home
 ```
 4. 配置网络
+
 机房电脑要配置静态网络地址所以要用netcl来配置
 
 netctl的配置文件保存在` /etc/netctl/`。
